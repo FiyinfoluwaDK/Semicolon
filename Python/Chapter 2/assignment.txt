@@ -1,0 +1,14 @@
+- Convert miles to kilometer
+
+use a variable name miles and intialises with value 175
+
+store the value 1609 in a constant name MILES_PER_kilometer
+
+multiply miles by MILES_PER_KILOMETER and assignit to a variable named  kilometers
+
+display the result
+
+
+Write a python program that caculates the number of liters of fuel
+a customer can purchase from a gas station given their total budget. 
+Assume the price per liter is N855
